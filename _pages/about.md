@@ -38,21 +38,20 @@ The summit will feature a keynote by [Krishna S](https://www.cse.iitb.ac.in/~kri
 
 ## call for participation
 
-The SG PL summit is **open to participants at all levels across academia and industry** and attendance is **free-of-charge**.
+The SG PL summit is **open to participants at all levels across academia and industry** and attendance is **free-of-charge**. 
 
-Registration is required: (signuplink TBA)
+**Please sign up at the following link by November 4, 2025:** [Participation Signup](https://docs.google.com/forms/d/e/1FAIpQLSdEKF2PJXh5DUFCeOzl5OKl1_rwTO1sJjiNfMFdxpxHHP8Svw/viewform)
 
 ### call for presentations
 
-We solicit **presentations on programming languages research and related topics** including, but not limited to, verification, proof theory, program synthesis, etc.
-We also welcome proposals to hold **small-scale hands-on tutorials** or similar events at the summit.
+We welcome **presentations on PL research and related topics** including, but not limited to, verification, proof theory, and program synthesis. Presentations can be about either published work, ongoing work, use cases, or even new ideas seeking collaborators at the summit. Students are particularly encouraged to present! 
 
-We hope that you will share your exciting PL-related research, use cases, or even new ideas seeking collaborators at the summit.
-**Students are particularly encouraged to present and solicit feedback on your research from the wider research community.**
+**Please sign up here by November 4, 2025:** [Presentation Signup](https://docs.google.com/forms/d/e/1FAIpQLScdYRzFdexquF4bYwERDU7LlBSK5LH2wbluYMY8OCI3Dr170w/viewform)
 
-(form to propose talk TBA)
 
-We hope to accommodate all proposed talks, potentially with parallel tracks. All talks will be held in-person and each talk will be allocated approximately 20-30 minute slots.
+Please also sign up for participation using the link above. 
+
+We hope to accommodate all proposed talks. All talks will be held in-person, the allocated time to each talk will depend on the number of registrations.
 
 ## schedule
 

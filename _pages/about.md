@@ -24,7 +24,7 @@ latest_posts:
 ---
 
 Welcome to the second SG Programming Languages Summit!
-The summit is an informal meeting for those based in Singapore with interests in programming languages research, broadly construed.
+The summit is an informal meeting for everyone interested in programming languages research (broadly construed) that takes place once a year in Singapore.
 
 ## time & venue
 

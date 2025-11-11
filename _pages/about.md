@@ -40,13 +40,13 @@ The summit will feature a keynote by [Krishna S](https://www.cse.iitb.ac.in/~kri
 
 The SG PL summit is **open to participants at all levels across academia and industry** and attendance is **free-of-charge**. 
 
-Deadline Extended: **Please sign up at the following link by ~~November 4~~ November 7, 2025:** [Participation Signup](https://docs.google.com/forms/d/e/1FAIpQLSdEKF2PJXh5DUFCeOzl5OKl1_rwTO1sJjiNfMFdxpxHHP8Svw/viewform)
+**Please sign up at the following link by November 7, 2025:** (Signup now closed)
 
 ### call for presentations
 
 We welcome **presentations on PL research and related topics** including, but not limited to, verification, proof theory, and program synthesis. Presentations can be about either published work, ongoing work, use cases, or even new ideas seeking collaborators at the summit. Students are particularly encouraged to present! 
 
-Deadline Extended: **Please sign up here by  ~~November 4~~ November 7, 2025:** [Presentation Signup](https://docs.google.com/forms/d/e/1FAIpQLScdYRzFdexquF4bYwERDU7LlBSK5LH2wbluYMY8OCI3Dr170w/viewform)
+**Please sign up here by November 7, 2025:** (Signup now closed)
 
 
 Please also sign up for participation using the link above. 

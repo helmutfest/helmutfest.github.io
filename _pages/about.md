@@ -66,7 +66,8 @@ We hope to accommodate all proposed talks. All talks will be held in-person, the
 | 15:15 - 15:45   | **Coffee break**
 | 15:45 - 17:15   |Session 3
 
-Talks TBA
+
+The list of accepted talks is still TBA.
 
 ## mailing list
 

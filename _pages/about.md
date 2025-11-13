@@ -57,8 +57,8 @@ We hope to accommodate all proposed talks. All talks will be held in-person, the
 
 | | |
 |---|---|
-| 9:10 - 09:10   | **Welcome and opening remarks** |
-| 9:10 - 10:00  | **Keynote**
+| 09:10 - 09:10   | **Welcome and Opening Remarks** |
+| 09:10 - 10:00  | **Keynote**
 | 10:00 - 10:30 | **Coffee break**
 | 10:30 - 12:00 | Session 1
 | 12.00 - 13:30  | **Lunch break** (Lunch is not provided)

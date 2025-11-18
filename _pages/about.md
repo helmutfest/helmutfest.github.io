@@ -57,7 +57,7 @@ We hope to accommodate all proposed talks. All talks will be held in-person, the
 
 | | |
 |---|---|
-| 09:10 - 09:10   | **Welcome and Opening Remarks** |
+| 09:00 - 09:10   | **Welcome and Opening Remarks** |
 | 09:10 - 10:00  | **Keynote**
 | 10:00 - 10:30 | **Coffee break**
 | 10:30 - 12:00 | Session 1

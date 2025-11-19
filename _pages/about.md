@@ -76,6 +76,8 @@ of checking the correctness of a  program running over a weak consistency model.
 In this talk, I will touch upon some popular weak consistency models and some key results related to verifying programs under these. 
 </details>
 
+---
+
 
 ### Session 1: Concurrency & Hardware
 
@@ -130,6 +132,8 @@ Expressing hardware designs using hardware description languages (HDLs) routinel
 <details>
 <summary>Abstract</summary>
 Hardware model checking has become one of the most successful applications of formal verification, providing automated safety guarantees for complex digital systems. Despite this success, the performance of modern checkers still depends heavily on the interaction between their algorithmic components and the underlying SAT solvers. Understanding and improving this interaction remains a core challenge at the boundary between theory and implementation. In this talk, I will discuss recent efforts to make hardware model checking both more efficient and more explainable. We focus on symbolic model checking algorithms that rely on iterative SAT solving, taking the Complementary Approximate Reachability (CAR) framework as a representative example. I will illustrate how CAR structures its reasoning through sequences of SAT calls and how the characteristics of these calls, such as the order of assumptions and the handling of unsatisfiable cores, can strongly influence performance. Building on this understanding, we introduce several optimizations that improve reasoning efficiency. These insights also shed light on how solver-level behaviors shape verification outcomes, suggesting directions for more transparent and adaptive model checking in the future.</details>
+
+---
 
 ### Session 2: AI & Medley I
 
@@ -212,6 +216,8 @@ However, existing dual language implementations typically extend upon $\lambda$-
 In this talk, we present Mini-Mu, a minimalist and ergonomics-oriented dual language. 
 It eliminates $\lambda$-abstraction entirely, building computation solely on $\mu\tilde{\mu}$-calculus primitives and pattern matching. Unlike conventional approaches which treat functions as first-class citizens and layer duality onto functional constructs, Mini-Mu directly treats computation as bidirectional data flow between expressions and continuations. Data and codata---including both conventional structures and reified continuations---is treated equally with constructors and $\mu$-abstractions, eliminating the asymmetry in $\lambda$ based systems. Through introducing formal semantics and practical examples for the language, we show that the system maintains expressiveness of full $\lambda\mu\tilde{\mu}$-calculus, while offering readability and writability comparable to traditional programming languages. We will also demonstrate that this purely dual foundation simplifies a number of concepts and techniques for various programming patterns, and the potential of duality-based programming in various fields.</details>
 
+---
+
 
 ### Session 3: Medley II & Program Logics
 
@@ -283,6 +289,7 @@ be used to support checked and unchecked exceptions that may escape
 methods, or be caught and handled by user programs.
 </details>
 
+---
 
 ## mailing list
 

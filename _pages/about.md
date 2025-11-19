@@ -193,7 +193,7 @@ We implemented Cottontail on top of SymCC and evaluated eight extensively tested
 
 **14:50-15:10**
 
-**Title**: Cottontail: LLM-Driven Concolic Execution for Highly Structured Test Input Generation
+**Title**: A Direct Reduction from Stochastic Parity Games to Simple Stochastic Games
 
 **Speaker**: Zihan Zhou, National University of Singapore
 

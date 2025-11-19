@@ -42,16 +42,6 @@ The SG PL summit is **open to participants at all levels across academia and ind
 
 **Please sign up at the following link by November 7, 2025:** (Signup now closed)
 
-### call for presentations
-
-We welcome **presentations on PL research and related topics** including, but not limited to, verification, proof theory, and program synthesis. Presentations can be about either published work, ongoing work, use cases, or even new ideas seeking collaborators at the summit. Students are particularly encouraged to present! 
-
-**Please sign up here by November 7, 2025:** (Signup now closed)
-
-
-Please also sign up for participation using the link above. 
-
-We hope to accommodate all proposed talks. All talks will be held in-person, the allocated time to each talk will depend on the number of registrations.
 
 ## schedule at a glance
 | | |

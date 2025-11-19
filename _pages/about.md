@@ -157,7 +157,7 @@ The talk will showcase applications across domains such as autonomous driving an
 
 **Title**: Optimizing and Fortifying AI Software through the Lens of Artifact Synthesis  
 
-**Speaker**: Jieke Shi, Singapore Management University
+**Speaker**: [Jieke Shi](https://jiekeshi.notion.site), Singapore Management University
 
 <details>
 <summary>Abstract</summary>
@@ -207,7 +207,7 @@ Significant progress has been recently achieved in developing efficient solution
 
 **Title**: Ergonomics for Computational Duality
 
-**Speaker**: Ding Feng & Kyrieal Mortel Abad, National University of Singapore
+**Speaker**: [Ding Feng](https://dingf3ng.github.io) & Kyrieal Mortel Abad, National University of Singapore
 
 <details>
 <summary>Abstract</summary>

@@ -51,9 +51,9 @@ The SG PL summit is **open to participants at all levels across academia and ind
 | 10:10 - 10:40 | **Coffee break** |
 | 10:40 - 12:00 | Session 1: Concurrency & Hardware |
 | 12.00 - 13:30  | **Lunch break** (Lunch is not provided) |
-| 13:30 - 15:30   |Session 2: AI & Medley I |
+| 13:30 - 15:30   | Session 2: AI & Medley I |
 | 15:30 - 16:00   | **Coffee break** |
-| 16:00 - 17:20   |Session 3: Medley II & Program Logics |
+| 16:00 - 17:20   | Session 3: Medley II & Program Logics |
 
 
 ## detailed schedule
@@ -67,11 +67,13 @@ The SG PL summit is **open to participants at all levels across academia and ind
 
 **Speaker**: [Krishna S](https://www.cse.iitb.ac.in/~krishnas/), IIT Bombay, India
 
+<details>
+<summary>Abstract</summary>
 The strongest level of consistency in concurrent/distributed storage systems consists in ensuring that every issued write operation is immediately visible to all processes. However, for performance reasons, storage systems do not guarantee  strong consistency, but they rather implement weaker consistency models where different processes may see different sets of writes along computations, sometimes in different orders. The conditions on the visibility order guaranteed by a system corresponds to its memory consistency model. Weak consistency models admit complex and unintuitive behaviors, making the task of programming applications very hard. This motivates investigating the verification problem 
 of checking the correctness of a  program running over a weak consistency model.  Solving this problem  is nontrivial due to the fact that capturing program semantics under weak consistency models requires, in general, reasoning about infinite-state systems,  which in general, threaten decidability. 
 
 In this talk, I will touch upon some popular weak consistency models and some key results related to verifying programs under these. 
-
+</details>
 
 ### Session 1: Concurrency & Hardware
 

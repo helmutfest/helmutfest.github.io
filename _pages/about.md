@@ -248,7 +248,7 @@ In this talk, we present an ongoing effort to build a verified explicit-state mo
 ---                                                                              
 **16:40-17:00**
 
-**Title**: Engineering a Verified Explicit-State Model Checker in Lean        
+**Title**: Hyper Hoare Logic: Proving and Disproving Hyperproperties       
 
 **Speaker**: [Thibault Dardinier](https://dardinier.me/), National University of Singapore
 

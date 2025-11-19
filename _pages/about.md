@@ -46,14 +46,14 @@ The SG PL summit is **open to participants at all levels across academia and ind
 ## schedule at a glance
 | | |
 |---|---|
-| 09:00 - 09:10   | **Welcome and Opening Remarks** |
-| 09:10 - 10:10  | Keynote
-| 10:10 - 10:40 | **Coffee break**
-| 10:40 - 12:00 | Session 1: Concurrency & Hardware
-| 12.00 - 13:30  | **Lunch break** (Lunch is not provided)
-| 13:30 - 15:30   |Session 2: AI & Medley I 
-| 15:30 - 16:00   | **Coffee break**
-| 16:00 - 17:20   |Session 3: Medley II & Program Logics
+| 09:00 - 09:10  | **Welcome and Opening Remarks** |
+| 09:10 - 10:10 | Keynote |
+| 10:10 - 10:40 | **Coffee break** |
+| 10:40 - 12:00 | Session 1: Concurrency & Hardware |
+| 12.00 - 13:30  | **Lunch break** (Lunch is not provided) |
+| 13:30 - 15:30   |Session 2: AI & Medley I |
+| 15:30 - 16:00   | **Coffee break** |
+| 16:00 - 17:20   |Session 3: Medley II & Program Logics |
 
 
 ## detailed schedule

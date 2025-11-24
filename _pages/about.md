@@ -80,6 +80,7 @@ In this talk, I will touch upon some popular weak consistency models and some ke
 
 
 ### Session 1: Concurrency & Hardware
+
 (chair: by Umang Mathur)
 
 **10:40-11:00**
@@ -137,6 +138,7 @@ Hardware model checking has become one of the most successful applications of fo
 ---
 
 ### Session 2: AI & Medley I
+
 (chair: Djordje Zikelic)
 
 **13:30-13:50**
@@ -222,6 +224,7 @@ It eliminates $\lambda$-abstraction entirely, building computation solely on $\m
 
 
 ### Session 3: Medley II & Program Logics
+
 (chair: Michael Schwarz)
 
 **16:00-16:20**

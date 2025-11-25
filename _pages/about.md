@@ -38,7 +38,7 @@ The summit will feature a keynote by [Krishna S](https://www.cse.iitb.ac.in/~kri
 
 ## call for participation
 
-The SG PL summit is **open to participants at all levels across academia and industry** and attendance is **free-of-charge**. 
+The SG PL summit is **open to participants at all levels across academia and industry** and attendance is **free-of-charge**.
 
 **Please sign up at the following link by November 7, 2025:** (Signup now closed)
 
@@ -51,8 +51,8 @@ The SG PL summit is **open to participants at all levels across academia and ind
 | 09:10 - 10:10 | Keynote |
 | 10:10 - 10:40 | **Coffee break** |
 | 10:40 - 12:00 | Session 1: Concurrency & Hardware |
-| 12.00 - 13:30  | **Lunch break** (Lunch is not provided) |
-| 13:30 - 15:30   | Session 2: AI & Medley I |
+| 12.00 - 13:50  | **Lunch break** (Lunch is not provided) |
+| 13:50 - 15:30   | Session 2: AI & Medley I |
 | 15:30 - 16:00   | **Coffee break** |
 | 16:00 - 17:20   | Session 3: Medley II & Program Logics |
 
@@ -60,9 +60,9 @@ The SG PL summit is **open to participants at all levels across academia and ind
 ## detailed schedule
 
 ### Keynote
-(chaired by Umang Mathur)
+(chair: [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/), National University of Singapore)
 
-**09:10 - 10:10** 
+**09:10 - 10:10**
 
 **Title**: Verifying Concurrent Programs under Weak Consistency
 
@@ -70,10 +70,10 @@ The SG PL summit is **open to participants at all levels across academia and ind
 
 <details>
 <summary>Abstract</summary>
-The strongest level of consistency in concurrent/distributed storage systems consists in ensuring that every issued write operation is immediately visible to all processes. However, for performance reasons, storage systems do not guarantee  strong consistency, but they rather implement weaker consistency models where different processes may see different sets of writes along computations, sometimes in different orders. The conditions on the visibility order guaranteed by a system corresponds to its memory consistency model. Weak consistency models admit complex and unintuitive behaviors, making the task of programming applications very hard. This motivates investigating the verification problem 
-of checking the correctness of a  program running over a weak consistency model.  Solving this problem  is nontrivial due to the fact that capturing program semantics under weak consistency models requires, in general, reasoning about infinite-state systems,  which in general, threaten decidability. 
+The strongest level of consistency in concurrent/distributed storage systems consists in ensuring that every issued write operation is immediately visible to all processes. However, for performance reasons, storage systems do not guarantee  strong consistency, but they rather implement weaker consistency models where different processes may see different sets of writes along computations, sometimes in different orders. The conditions on the visibility order guaranteed by a system corresponds to its memory consistency model. Weak consistency models admit complex and unintuitive behaviors, making the task of programming applications very hard. This motivates investigating the verification problem
+of checking the correctness of a  program running over a weak consistency model.  Solving this problem  is nontrivial due to the fact that capturing program semantics under weak consistency models requires, in general, reasoning about infinite-state systems,  which in general, threaten decidability.
 
-In this talk, I will touch upon some popular weak consistency models and some key results related to verifying programs under these. 
+In this talk, I will touch upon some popular weak consistency models and some key results related to verifying programs under these.
 </details>
 
 ---
@@ -81,7 +81,7 @@ In this talk, I will touch upon some popular weak consistency models and some ke
 
 ### Session 1: Concurrency & Hardware
 
-(chair: by Umang Mathur)
+(chair: [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/), National University of Singapore)
 
 **10:40-11:00**
 
@@ -91,8 +91,8 @@ In this talk, I will touch upon some popular weak consistency models and some ke
 
 <details>
 <summary>Abstract</summary>
-There are two orthogonal methodologies for efficient prediction of data races from concurrent program runs: commutativity and prefix reasoning. There are several instances of each methodology in the literature, with the goal of predicting data races using a streaming algorithm where the required memory does not grow proportional to the length of the observed run, but these instances were mostly created in an ad hoc manner, without much attention to their unifying underlying principles. 
-In this paper, we identify and formalize these principles for each category with the ultimate goal of paving the way for combining them into a new algorithm which shares their efficiency characteristics but offers strictly more prediction power. In particular, we formalize three distinct classes of races predictable using commutativity reasoning, and compare them. We identify three different styles of prefix reasoning, and prove that they predict the same class of races, which provably contains all races predictable by any commutativity reasoning technique. 
+There are two orthogonal methodologies for efficient prediction of data races from concurrent program runs: commutativity and prefix reasoning. There are several instances of each methodology in the literature, with the goal of predicting data races using a streaming algorithm where the required memory does not grow proportional to the length of the observed run, but these instances were mostly created in an ad hoc manner, without much attention to their unifying underlying principles.
+In this paper, we identify and formalize these principles for each category with the ultimate goal of paving the way for combining them into a new algorithm which shares their efficiency characteristics but offers strictly more prediction power. In particular, we formalize three distinct classes of races predictable using commutativity reasoning, and compare them. We identify three different styles of prefix reasoning, and prove that they predict the same class of races, which provably contains all races predictable by any commutativity reasoning technique.
 
 Our key contribution is combining prefix reasoning and commutativity reasoning in a modular way to introduce a new class of races, granular prefix races, that are predictable in constant-space and linear time, in a streaming fashion. This class of races includes all races predictable using commutativity and prefix reasoning techniques. We present an improved constant-space algorithm for prefix reasoning alone based on the idea of antichains (from language theory). This improved algorithm is the stepping stone that is required to devise an efficient algorithm for prediction of granular prefix races. We present experimental results to demonstrate the expressive power and performance of our new algorithm.</details>
 
@@ -100,7 +100,7 @@ Our key contribution is combining prefix reasoning and commutativity reasoning i
 
 **11:00-11:20**
 
-**Title**: Data Race Detection by Digest-Driven Abstract Interpretation  
+**Title**: Data Race Detection by Digest-Driven Abstract Interpretation
 
 **Speaker**: [Michael Schwarz](https://michael-schwarz.github.io), National University of Singapore
 
@@ -115,7 +115,7 @@ Based on joint work with Julian Erhard (TU Munich & LMU Munich), accepted to app
 
 **11:20-11:40**
 
-**Title**: Anvil: A General-Purpose Timing-Safe Hardware Description Language  
+**Title**: Anvil: A General-Purpose Timing-Safe Hardware Description Language
 
 **Speaker**: [Jason Zhijingcheng Yu](https://www.comp.nus.edu.sg/~yuz1996/), National University of Singapore
 
@@ -127,7 +127,7 @@ Expressing hardware designs using hardware description languages (HDLs) routinel
 
 **11:40-12:00**
 
-**Title**: Understanding and Optimizing Hardware Model Checking     
+**Title**: Understanding and Optimizing Hardware Model Checking
 
 **Speaker**: [Yibo DONG](https://yibodong.tech/), National University of Singapore
 
@@ -139,27 +139,12 @@ Hardware model checking has become one of the most successful applications of fo
 
 ### Session 2: AI & Medley I
 
-(chair: Djordje Zikelic)
+(chair: [Djordje Zikelic](https://djordjezikelic.github.io/), Singapore Management University)
 
-**13:30-13:50**
-
-**Title**: Towards verifying and enforcing runtime safety for agent systems  
-
-**Speaker**: [Haoyu Wang](https://sites.google.com/view/haoyuwang18/home), Singapore Management University
-
-<details>
-<summary>Abstract</summary>
-Ensuring the safety of autonomous and intelligent agent systems remains a pressing challenge as they increasingly interact with open, dynamic environments. While formal verification offers rigorous guarantees before deployment, it struggles to handle the scale, uncertainty, and adaptivity of real-world settings. This talk explores a complementary direction—runtime safety verification and enforcement—where agents continuously reason about and regulate their own behavior during execution.
-
-I will introduce a series of techniques that combine formal logic–based specifications with probabilistic runtime models, enabling agents to quantify and monitor safety in real time. Building on these foundations, we develop proactive enforcement mechanisms that intervene before violations occur, leveraging learned probabilistic dynamics and robust semantic scores to guide corrective actions.
-
-The talk will showcase applications across domains such as autonomous driving and embodied household agents, highlighting how runtime monitoring and model-based enforcement can make learning agents both adaptable and verifiably safe. I will conclude by discussing open problems—including integrating symbolic reasoning with LLM-based controllers, balancing safety with performance, and moving toward unified frameworks for trustworthy autonomous behavior.</details>
-
----
 
 **13:50-14:10**
 
-**Title**: Optimizing and Fortifying AI Software through the Lens of Artifact Synthesis  
+**Title**: Optimizing and Fortifying AI Software through the Lens of Artifact Synthesis
 
 **Speaker**: [Jieke Shi](https://jiekeshi.notion.site), Singapore Management University
 
@@ -171,7 +156,7 @@ Ensuring the safety and efficiency of AI systems has become increasingly critica
 
 **14:10-14:30**
 
-**Title**: Certified Robust Accuracy of Neural Networks Are Bounded due to Bayes Errors 
+**Title**: Certified Robust Accuracy of Neural Networks Are Bounded due to Bayes Errors
 
 **Speaker**: Ruihan Zhang, Singapore Management University
 
@@ -197,13 +182,17 @@ We implemented Cottontail on top of SymCC and evaluated eight extensively tested
 
 **14:50-15:10**
 
-**Title**: A Direct Reduction from Stochastic Parity Games to Simple Stochastic Games
+**Title**: Towards verifying and enforcing runtime safety for agent systems
 
-**Speaker**: Zihan Zhou, National University of Singapore
+**Speaker**: [Haoyu Wang](https://sites.google.com/view/haoyuwang18/home), Singapore Management University
 
 <details>
 <summary>Abstract</summary>
-Significant progress has been recently achieved in developing efficient solutions for simple stochastic games (SSGs), focusing on reachability objectives. While reductions from stochastic parity games (SPGs) to SSGs have been presented in the literature through the use of multiple intermediate game models, a direct and simple reduction has been notably absent. This paper introduces a novel and direct polynomial-time reduction from quantitative SPGs to quantitative SSGs. By leveraging a gadget-based transformation that effectively removes the priority function, we construct an SSG that simulates the behavior of a given SPG. We formally establish the correctness of our direct reduction. Furthermore, we demonstrate that under binary encoding this reduction is polynomial, thereby directly corroborating the known NP∩coNP complexity of SPGs and providing new understanding in the relationship between parity and reachability objectives in turn-based stochastic games.</details>
+Ensuring the safety of autonomous and intelligent agent systems remains a pressing challenge as they increasingly interact with open, dynamic environments. While formal verification offers rigorous guarantees before deployment, it struggles to handle the scale, uncertainty, and adaptivity of real-world settings. This talk explores a complementary direction—runtime safety verification and enforcement—where agents continuously reason about and regulate their own behavior during execution.
+
+I will introduce a series of techniques that combine formal logic–based specifications with probabilistic runtime models, enabling agents to quantify and monitor safety in real time. Building on these foundations, we develop proactive enforcement mechanisms that intervene before violations occur, leveraging learned probabilistic dynamics and robust semantic scores to guide corrective actions.
+
+The talk will showcase applications across domains such as autonomous driving and embodied household agents, highlighting how runtime monitoring and model-based enforcement can make learning agents both adaptable and verifiably safe. I will conclude by discussing open problems—including integrating symbolic reasoning with LLM-based controllers, balancing safety with performance, and moving toward unified frameworks for trustworthy autonomous behavior.</details>
 
 ---
 
@@ -215,9 +204,9 @@ Significant progress has been recently achieved in developing efficient solution
 
 <details>
 <summary>Abstract</summary>
-In recent years, programming languages grounded in classical logic and sequent calculus have gained attention for their elegant treatment of control flow via computational dualities. 
+In recent years, programming languages grounded in classical logic and sequent calculus have gained attention for their elegant treatment of control flow via computational dualities.
 However, existing dual language implementations typically extend upon $\lambda$-calculus foundations, and often lacks syntactic sugar. Thus, they either inherits excessive complexities or obscures the fundamental symmetry between data producers and consumers.
-In this talk, we present Mini-Mu, a minimalist and ergonomics-oriented dual language. 
+In this talk, we present Mini-Mu, a minimalist and ergonomics-oriented dual language.
 It eliminates $\lambda$-abstraction entirely, building computation solely on $\mu\tilde{\mu}$-calculus primitives and pattern matching. Unlike conventional approaches which treat functions as first-class citizens and layer duality onto functional constructs, Mini-Mu directly treats computation as bidirectional data flow between expressions and continuations. Data and codata---including both conventional structures and reified continuations---is treated equally with constructors and $\mu$-abstractions, eliminating the asymmetry in $\lambda$ based systems. Through introducing formal semantics and practical examples for the language, we show that the system maintains expressiveness of full $\lambda\mu\tilde{\mu}$-calculus, while offering readability and writability comparable to traditional programming languages. We will also demonstrate that this purely dual foundation simplifies a number of concepts and techniques for various programming patterns, and the potential of duality-based programming in various fields.</details>
 
 ---
@@ -225,11 +214,11 @@ It eliminates $\lambda$-abstraction entirely, building computation solely on $\m
 
 ### Session 3: Medley II & Program Logics
 
-(chair: Michael Schwarz)
+(chair: [Michael Schwarz](https://michael-schwarz.github.io), National University of Singapore)
 
 **16:00-16:20**
 
-**Title**: Exploring Fixed-Point-Oriented Programming        
+**Title**: Exploring Fixed-Point-Oriented Programming
 
 **Speaker**: [Foo Yong Qi](https://yongqi.foo/), National University of Singapore
 
@@ -241,7 +230,7 @@ Many problems, from static analysis, graph algorithms, type checking and beyond,
 
 **16:20-16:40**
 
-**Title**: Engineering a Verified Explicit-State Model Checker in Lean        
+**Title**: Engineering a Verified Explicit-State Model Checker in Lean
 
 **Speaker**: [Qiyuan Zhao](https://zqy1018.top/), National University of Singapore
 
@@ -251,10 +240,10 @@ Explicit-state model checkers like TLC are effective tools for exploring the con
 
 In this talk, we present an ongoing effort to build a verified explicit-state model checker integrated into Veil, developed in the Lean theorem prover. The checker can serve as a "front line" for symbolic verification: it allows users to explore bounded instances of parameterized systems and obtain concrete counterexamples that help identify and fix bugs before moving on to full symbolic verification. Inspired by TLC, the tool can also function as a general-purpose model checker for standalone systems. We will discuss the main challenges in making the checker both verified and practical, and conclude with a live demo illustrating its use.</details>
 
----                                                                              
+---
 **16:40-17:00**
 
-**Title**: Hyper Hoare Logic: Proving and Disproving Hyperproperties       
+**Title**: Hyper Hoare Logic: Proving and Disproving Hyperproperties
 
 **Speaker**: [Thibault Dardinier](https://dardinier.me/), National University of Singapore
 
@@ -265,11 +254,11 @@ Hyperproperties relate multiple executions of a program and capture essential co
 In this talk, I will present Hyper Hoare Logic (HHL), a generalization of Hoare logic that lifts assertions from predicates over individual states to predicates over sets of states. This generalization enables uniform reasoning for a wide range of hyperproperties, including those beyond the reach of existing logics. Despite its expressiveness, HHL admits simple and intuitive inference rules that support key reasoning principles, such as composing different kinds of hyperproperties in the same proof or reasoning about loops where different executions perform different numbers of iterations.
 </details>
 
----        
+---
 
 **17:00-17:20**
 
-**Title**: Type Safety via Hoare Logic with Separation Type      
+**Title**: Type Safety via Hoare Logic with Separation Type
 
 **Speaker**: Li Wenhua, National University of Singapore
 

@@ -32,7 +32,7 @@ Currently we're planning with a half-day on July 16 (starting after lunch), and 
 ## time & venue
 
 - July 16-17 2026
-- Venue: Technical Univeristy of Munich, Garchign campus
+- Venue: Technical Univeristy of Munich, Garching campus
 
 
 ## call for participation

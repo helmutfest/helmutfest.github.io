@@ -23,15 +23,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to Helmutfest! At the end of this winter term, Prof. Helmut Seidl will officially retire.
-While he's not likely to stop doing science any time soon, we think it's is a good opportunity to celebrate his achievements and get together all of Helmut’s colleagues, collaborators, and students.
+Welcome to Helmutfest! At the end of this winter semester (March 2026), Helmut officially retires.
+We would like to take this opportunity to celebrate his achievements and to
+bring together his former (and current) colleagues, collaborators, and students.
 
-We’d like to invite you to join us for a colloquium and get-together on July 16th-17th, 2026 in Garching with an optional social event on July 18th.
-Currently we're planning with a half-day on July 16 (starting after lunch), and a full day on July 17.
+You are cordially invited to a get-together with talks and presentation
+on July 16th and 17th, 2026 in Garching with an extra social event planned for July 18th.
 
 ## time & venue
 
-- July 16-17 2026
+- July 16: half day (starting after lunch)
+- July 17: full day
+- July 18: social event (optional)
 - Venue: Technical University of Munich, Garching campus
 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Industrial Talk, TBA"
+title: "To be confirmed"
 permalink: /talks/andrea-flexeder/
 speaker: "Andrea Flexeder"
 affiliation: "Robert Bosch GmbH"

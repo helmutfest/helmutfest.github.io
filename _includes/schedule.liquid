@@ -12,7 +12,7 @@
         <table class="table table-sm schedule-table">
           <tbody>
             {% for slot in day.slots %}
-              {% assign slot_kind = slot.kind | default: "talk" %}
+              {% assign slot_kind = slot.kind | default: 'talk' %}
               <tr class="schedule-slot schedule-slot-{{ slot_kind }}">
                 <td class="schedule-time">
                   <span>{{ slot.start }}</span>
@@ -21,8 +21,8 @@
                 </td>
                 <td class="schedule-session">
                   {% if slot.talk %}
-                    {% assign talk_permalink = "/talks/" | append: slot.talk | append: "/" %}
-                    {% assign talk_pages = site.pages | where: "permalink", talk_permalink %}
+                    {% assign talk_permalink = '/talks/' | append: slot.talk | append: '/' %}
+                    {% assign talk_pages = site.pages | where: 'permalink', talk_permalink %}
                     {% assign talk = talk_pages | first %}
                     {% if talk %}
                       <a class="schedule-title" href="{{ talk.permalink | relative_url }}">{{ talk.title }}</a>
@@ -35,7 +35,9 @@
                       </div>
                     {% else %}
                       <strong class="schedule-title">{{ slot.talk }}</strong>
-                      <div class="schedule-meta">Missing talk page for <code>{{ slot.talk }}</code>.</div>
+                      <div class="schedule-meta">
+                        Missing talk page for <code>{{ slot.talk }}</code>.
+                      </div>
                     {% endif %}
                   {% else %}
                     <strong class="schedule-title">{{ slot.title }}</strong>

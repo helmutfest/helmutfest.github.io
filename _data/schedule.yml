@@ -89,7 +89,6 @@ days:
         end: "17:15"
         kind: "logistics"
         title: "Closing"
-
 # notes:
 #   - "The ordering is thematic: abstract interpretation foundations and analysis techniques on Thursday; automated reasoning, hyperproperties, tools, and applications on Friday."
 #   - "Entries without a submitted abstract are marked as to be confirmed in the individual talk files."

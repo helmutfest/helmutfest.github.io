@@ -1,0 +1,63 @@
+{% assign schedule = site.data.schedule %}
+
+{% if schedule.intro %}
+  <p class="schedule-intro">{{ schedule.intro }}</p>
+{% endif %}
+
+<div class="schedule">
+  {% for day in schedule.days %}
+    <section class="schedule-day">
+      <h2>{{ day.label }}</h2>
+      <div class="table-responsive">
+        <table class="table table-sm schedule-table">
+          <tbody>
+            {% for slot in day.slots %}
+              {% assign slot_kind = slot.kind | default: "talk" %}
+              <tr class="schedule-slot schedule-slot-{{ slot_kind }}">
+                <td class="schedule-time">
+                  <span>{{ slot.start }}</span>
+                  <span class="schedule-time-separator">-</span>
+                  <span>{{ slot.end }}</span>
+                </td>
+                <td class="schedule-session">
+                  {% if slot.talk %}
+                    {% assign talk_permalink = "/talks/" | append: slot.talk | append: "/" %}
+                    {% assign talk_pages = site.pages | where: "permalink", talk_permalink %}
+                    {% assign talk = talk_pages | first %}
+                    {% if talk %}
+                      <a class="schedule-title" href="{{ talk.permalink | relative_url }}">{{ talk.title }}</a>
+                      <div class="schedule-meta">
+                        {{ talk.speaker }}
+                        {% if talk.affiliation %}
+                          <span aria-hidden="true">&middot;</span>
+                          {{ talk.affiliation }}
+                        {% endif %}
+                      </div>
+                    {% else %}
+                      <strong class="schedule-title">{{ slot.talk }}</strong>
+                      <div class="schedule-meta">Missing talk page for <code>{{ slot.talk }}</code>.</div>
+                    {% endif %}
+                  {% else %}
+                    <strong class="schedule-title">{{ slot.title }}</strong>
+                    {% if slot.description %}
+                      <div class="schedule-meta">{{ slot.description }}</div>
+                    {% endif %}
+                  {% endif %}
+                </td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  {% endfor %}
+</div>
+
+{% if schedule.notes %}
+  <h2>Scheduling Notes</h2>
+  <ul class="schedule-notes">
+    {% for note in schedule.notes %}
+      <li>{{ note }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}

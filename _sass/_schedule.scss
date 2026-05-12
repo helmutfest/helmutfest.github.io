@@ -1,0 +1,78 @@
+/******************************************************************************
+ * Schedule
+ ******************************************************************************/
+
+.schedule-intro {
+  color: var(--global-text-color-light);
+}
+
+.schedule-day {
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.schedule-table {
+  margin-bottom: 0;
+  color: var(--global-text-color);
+
+  tr {
+    border-color: var(--global-divider-color);
+  }
+
+  td {
+    padding: 0.8rem 0.5rem;
+    vertical-align: top;
+    border-color: var(--global-divider-color);
+  }
+
+  .schedule-time {
+    width: 8.5rem;
+    color: var(--global-text-color-light);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .schedule-time-separator {
+    margin: 0 0.15rem;
+  }
+
+  .schedule-title {
+    font-weight: 600;
+  }
+
+  .schedule-meta {
+    margin-top: 0.15rem;
+    color: var(--global-text-color-light);
+    font-size: 0.95rem;
+  }
+
+  .schedule-slot-break,
+  .schedule-slot-logistics,
+  .schedule-slot-discussion {
+    .schedule-title {
+      color: var(--global-text-color);
+    }
+
+    .schedule-session {
+      color: var(--global-text-color-light);
+    }
+  }
+}
+
+.schedule-notes {
+  margin-top: 0.75rem;
+}
+
+@media (max-width: 576px) {
+  .schedule-table {
+    .schedule-time {
+      width: 6.75rem;
+      white-space: normal;
+    }
+
+    td {
+      padding-right: 0.25rem;
+      padding-left: 0.25rem;
+    }
+  }
+}

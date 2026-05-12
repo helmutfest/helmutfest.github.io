@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "JLiSA at SV-COMP 2026"
+title: "To be confirmed"
 permalink: /talks/pietro-ferrara/
 speaker: "Pietro Ferrara"
 affiliation: "Ca' Foscari University of Venice"
@@ -13,4 +13,4 @@ talk_type: "Scientific Talk"
 
 ## Abstract
 
-Preliminary topic: probably something about JLiSA at SV-COMP 2026. Final title and abstract to be confirmed.
+Title and abstract to be confirmed.

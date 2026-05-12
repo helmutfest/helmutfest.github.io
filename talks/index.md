@@ -6,11 +6,11 @@ permalink: /talks/
 
 # Talks
 
-These talk pages were extracted from the `answers.ods` registration spreadsheet. Entries with only a preliminary title are marked as abstract to be confirmed.
+Titles and abstracts marked as to be confirmed will be updated once finalized.
 
 ## Abstracts
 
-- [Patrick Cousot, "Design of Semantics by Abstract Interpretation or Trace-Based Abstract Interpretation"](/talks/patrick-cousot/)
+- [Patrick Cousot, "To be confirmed"](/talks/patrick-cousot/)
 - [David Monniaux, "Alternatives to Iterations with Widening: Policy Iteration and Others"](/talks/david-monniaux/)
 - [Antoine Miné, "Experience Designing Static Analyzers by Abstract Interpretation"](/talks/antoine-mine/)
 - [Caterina Urban, "Termination Resilience Static Analysis"](/talks/caterina-urban/)
@@ -20,7 +20,7 @@ These talk pages were extracted from the `answers.ods` registration spreadsheet.
 - [Markus Müller-Olm, "Automata and Logics for Asynchronous Hyperproperties"](/talks/markus-mueller-olm/)
 - [Bernd Finkbeiner, "Hyper Hyper"](/talks/bernd-finkbeiner/)
 - [Vincenzo Arceri, "A Journey through LiSA and its Frontends"](/talks/vincenzo-arceri/)
-- [Pietro Ferrara, "JLiSA at SV-COMP 2026"](/talks/pietro-ferrara/)
+- [Pietro Ferrara, "To be confirmed"](/talks/pietro-ferrara/)
 - [Yanbin Chen, "Quantum Compilation as Urban Planning"](/talks/yanbin-chen/)
 - [Rebecca Ghidini, "Incremental Static Analysis for Biological Models"](/talks/rebecca-ghidini/)
-- [Andrea Flexeder, "Industrial Talk, TBA"](/talks/andrea-flexeder/)
+- [Andrea Flexeder, "To be confirmed"](/talks/andrea-flexeder/)

@@ -13,4 +13,4 @@ talk_type: "Scientific Talk"
 
 ## Abstract
 
-Abstract to be confirmed.
+Abstract to be determined.

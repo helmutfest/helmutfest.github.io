@@ -42,3 +42,5 @@ on July 16th and 17th, 2026 in Garching with an extra social event planned for J
 Please register [here](https://nextcloud.cit.tum.de/index.php/apps/forms/s/kqMdkP6yLyRtwJ9r3d2MwcaC) by March 1st, 2026.
 
 ## schedule
+
+A draft program is available on the [schedule page](/schedule/). Individual talk abstracts can be seen under [talks](/talks/).

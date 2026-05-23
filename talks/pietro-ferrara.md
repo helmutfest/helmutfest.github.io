@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "To be confirmed"
+title: "To be determined"
 permalink: /talks/pietro-ferrara/
 speaker: "Pietro Ferrara"
 affiliation: "Ca' Foscari University of Venice"
@@ -14,4 +14,4 @@ proceedings_interest: true
 
 ## Abstract
 
-Title and abstract to be confirmed.
+Title and abstract to be determined.

@@ -1,14 +1,10 @@
 ---
 layout: page
-title: talks
+title: Talks
 permalink: /talks/
 ---
 
-# Talks
-
-Titles and abstracts marked as to be confirmed will be updated once finalized.
-
-## Abstracts
+Titles and abstracts marked as to be determined will be updated once finalized.
 
 <ul>
   {% for day in site.data.schedule.days %}
@@ -21,7 +17,7 @@ Titles and abstracts marked as to be confirmed will be updated once finalized.
           {% if talk %}
             <a href="{{ talk.permalink | relative_url }}">{{ talk.speaker }}, &quot;{{ talk.title }}&quot;</a>
           {% else %}
-            To be confirmed
+            To be determined
           {% endif %}
         </li>
       {% endif %}

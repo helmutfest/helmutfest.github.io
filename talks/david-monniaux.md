@@ -14,4 +14,4 @@ proceedings_interest: true
 
 ## Abstract
 
-Abstract to be confirmed.
+Abstract to be determined.

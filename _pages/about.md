@@ -27,7 +27,7 @@ Welcome to Helmutfest! At the end of this winter semester (March 2026), Helmut o
 We would like to take this opportunity to celebrate his achievements and to
 bring together his former (and current) colleagues, collaborators, and students.
 
-You are cordially invited to a get-together with talks and presentation
+You are cordially invited to a get-together with talks and presentations
 on July 16th and 17th, 2026 in Garching with an extra social event planned for July 18th.
 
 ## time & venue

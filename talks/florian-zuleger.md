@@ -1,15 +1,11 @@
 ---
-layout: page
+layout: talk
 title: "Automating Amortised Resource Analysis of Self-Adjusting and Probabilistic Data Structures"
 permalink: /talks/florian-zuleger/
 speaker: "Florian Zuleger"
 affiliation: "TU München"
 talk_type: "Scientific Talk"
 ---
-
-**Speaker:** Florian Zuleger  
-**Affiliation:** TU München  
-**Type:** Scientific Talk
 
 ## Abstract
 

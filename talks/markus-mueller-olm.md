@@ -1,15 +1,11 @@
 ---
-layout: page
+layout: talk
 title: "Automata and Logics for Asynchronous Hyperproperties"
 permalink: /talks/markus-mueller-olm/
 speaker: "Markus Müller-Olm"
 affiliation: "University of Münster"
 talk_type: "Scientific Talk"
 ---
-
-**Speaker:** Markus Müller-Olm  
-**Affiliation:** University of Münster  
-**Type:** Scientific Talk
 
 ## Abstract
 

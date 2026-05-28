@@ -1,15 +1,11 @@
 ---
-layout: page
+layout: talk
 title: "Non Standard Axiomatic Semantics"
 permalink: /talks/patrick-cousot/
 speaker: "Patrick Cousot"
 affiliation: "Courant Institute, New York University"
 talk_type: "Scientific Talk"
 ---
-
-**Speaker:** Patrick Cousot
-**Affiliation:** Courant Institute, New York University
-**Type:** Scientific Talk
 
 ## Abstract
 

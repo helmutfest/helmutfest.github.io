@@ -1,15 +1,11 @@
 ---
-layout: page
+layout: talk
 title: "Incremental Static Analysis for Biological Models"
 permalink: /talks/rebecca-ghidini/
 speaker: "Rebecca Ghidini"
 affiliation: "École Normale Supérieure (Paris)"
 talk_type: "Scientific Talk"
 ---
-
-**Speaker:** Rebecca Ghidini  
-**Affiliation:** École Normale Supérieure (Paris)  
-**Type:** Scientific Talk
 
 ## Abstract
 

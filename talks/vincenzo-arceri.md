@@ -1,15 +1,11 @@
 ---
-layout: page
+layout: talk
 title: "A Journey through LiSA and its Frontends"
 permalink: /talks/vincenzo-arceri/
 speaker: "Vincenzo Arceri"
 affiliation: "University of Parma"
 talk_type: "Scientific Talk"
 ---
-
-**Speaker:** Vincenzo Arceri  
-**Affiliation:** University of Parma  
-**Type:** Scientific Talk
 
 ## Abstract
 

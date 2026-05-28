@@ -1,0 +1,21 @@
+---
+layout: page
+---
+{% if page.speaker or page.affiliation or page.talk_type %}
+  <dl class="row mb-4">
+    {% if page.speaker %}
+      <dt class="col-sm-2">Speaker</dt>
+      <dd class="col-sm-10">{{ page.speaker | escape }}</dd>
+    {% endif %}
+    {% if page.affiliation %}
+      <dt class="col-sm-2">Affiliation</dt>
+      <dd class="col-sm-10">{{ page.affiliation | escape }}</dd>
+    {% endif %}
+    {% if page.talk_type %}
+      <dt class="col-sm-2">Type</dt>
+      <dd class="col-sm-10">{{ page.talk_type | escape }}</dd>
+    {% endif %}
+  </dl>
+{% endif %}
+
+{{ content }}

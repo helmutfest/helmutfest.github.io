@@ -1,15 +1,11 @@
 ---
-layout: page
+layout: talk
 title: "Termination Resilience Static Analysis"
 permalink: /talks/caterina-urban/
 speaker: "Caterina Urban"
 affiliation: "Inria & ENS | PSL"
 talk_type: "Scientific Talk"
 ---
-
-**Speaker:** Caterina Urban  
-**Affiliation:** Inria & ENS | PSL  
-**Type:** Scientific Talk
 
 ## Abstract
 

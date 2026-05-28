@@ -1,15 +1,11 @@
 ---
-layout: page
+layout: talk
 title: "Who Guards the Guards? Testing Program Analyzers"
 permalink: /talks/anastasia-isychev/
 speaker: "Anastasia Isychev"
 affiliation: "TU Wien"
 talk_type: "Scientific Talk"
 ---
-
-**Speaker:** Anastasia Isychev  
-**Affiliation:** TU Wien  
-**Type:** Scientific Talk
 
 ## Abstract
 

@@ -1,15 +1,11 @@
 ---
-layout: page
+layout: talk
 title: "JLiSA: from zero to podium at SV-COMP"
 permalink: /talks/pietro-ferrara/
 speaker: "Pietro Ferrara"
 affiliation: "Ca' Foscari University of Venice"
 talk_type: "Scientific Talk"
 ---
-
-**Speaker:** Pietro Ferrara  
-**Affiliation:** Ca' Foscari University of Venice  
-**Type:** Scientific Talk
 
 ## Abstract
 

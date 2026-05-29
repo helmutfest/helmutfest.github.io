@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-This website created.
+This website was created.

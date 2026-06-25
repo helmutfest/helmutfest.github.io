@@ -5,7 +5,7 @@ permalink: /social/
 description: Brauneck — Saturday, July 18, 2026
 ---
 
-{% include figure.liquid url="https://upload.wikimedia.org/wikipedia/commons/2/26/Brauneck_im_Fr%C3%BChsommer.jpg" alt="Brauneck in early summer" caption="Brauneck — 1556 m. Image: <a href='https://commons.wikimedia.org/wiki/File:Brauneck_im_Fr%C3%BChsommer.jpg'>Wikimedia Commons</a>" %}
+{% include figure.liquid url="/assets/Blick_von_der_Brauneck_Bergstation.jpg" alt="Brauneck in early summer" caption="Brauneck — 1556 m. Image: <a href='https://commons.wikimedia.org/wiki/File:Blick_von_der_Brauneck_Bergstation.jpg'>CatalpaSpirit</a> CC-BY-SA-4.0 International" %}
 
 Cap off Helmutfest with a day in the Bavarian Alps! On **Saturday, July 18**, we head to **[Brauneck](https://www.brauneck-bergbahn.de/)** — a beloved peak above Lenggries with sweeping views over the Isarwinkel and the Zugspitze massif.
 

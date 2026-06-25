@@ -2,63 +2,39 @@
 layout: page
 title: Social Event
 permalink: /social/
-description: Brauneck Cablecar — Saturday, July 18, 2026
+description: Brauneck — Saturday, July 18, 2026
 ---
 
-## Brauneck Cablecar
+{% include figure.liquid url="https://upload.wikimedia.org/wikipedia/commons/2/26/Brauneck_im_Fr%C3%BChsommer.jpg" alt="Brauneck in early summer" caption="Brauneck — 1556 m. Image: <a href='https://commons.wikimedia.org/wiki/File:Brauneck_im_Fr%C3%BChsommer.jpg'>Wikimedia Commons</a>" %}
 
-### Getting There
+Cap off Helmutfest with a day in the Bavarian Alps! On **Saturday, July 18**, we head to **[Brauneck](https://www.brauneck-bergbahn.de/)** — a beloved peak above Lenggries with sweeping views over the Isarwinkel and the Zugspitze massif.
 
-**Train to Lenggries**
+## Getting There
 
-Connection on Saturday, July 18, 2026:
+Take the train from **München Hbf** at **09:02** and arrive in Lenggries just after 10:00. A short bus ride — or a pleasant 25-minute walk — brings you straight to the cable car valley station.
 
-- From **München Hbf** (platform 27–36), departure **09:02** (track 33) with RE 86861
-- To **Lenggries**, arrival **10:11** (track 1) with RE 86861
+Ride the gondola up to 1600 m, and a short 20-minute stroll takes you to the **1556 m summit** — panoramic views guaranteed.
 
-Fallback departure: **09:26**
+## At the Top
 
-From Lenggries station to the cable car:
+Once up there, pick your adventure:
 
-- **Bus 395** → direction Jachenau to Brauneckbahn: **10:17 → 10:22**
-- Alternatively: walk to the cable car (~25 min)
+- 🥾 **Join the hike** — a scenic ridge walk with great views of the Alps ([route on Alpenverein Aktiv](https://www.alpenvereinaktiv.com/de/tour/helmutfest-hike/344803141))
+- ☀️ **Relax at the summit** — soak up the mountain air and the views
 
-**Take the cablecar up**
+## Lunch
 
-Hike up to the summit to enjoy the view (50 m elevation gain, ~20 min).
+At **13:30** we gather for lunch at the mountain restaurant — either the cosy [Gipfelhaus](https://www.brauneck-bergbahn.de/gastronomie/gipfelhaus/) or the [Panoramarestaurant](https://www.brauneck-bergbahn.de/gastronomie/panoramarestaurant/) with its stunning terrace. À la carte, expect around **25 €/person**.
 
-### At the Summit
+## Back to Munich
 
-Two options:
+We take the cable car down around **15:30** and catch a train from Lenggries arriving back in Munich by **17:30–18:00**.
 
-- **Trail**: [Helmutfest Hike on Alpenverein Aktiv](https://www.alpenvereinaktiv.com/de/tour/helmutfest-hike/344803141)
-- **Stay near the summit** enjoying the views
-
-### Afternoon
-
-**13:30** — Lunch at the mountain restaurant (depending on the number of attendees)
-
-- [Brauneck-Gipfelhaus](https://www.brauneck-bergbahn.de/gastronomie/gipfelhaus/)
-- [Brauneck-Panoramarestaurant](https://www.brauneck-bergbahn.de/gastronomie/panoramarestaurant/)
-- À la carte, ~25 €/person
-
-**15:30** — Take the cable car down
-
-**Bus shuttle to the train station:**
-
-- Bus 364: departs at **14:35** or **17:30**
-- Bus 395: departs at **16:32**
-- Alternatively: walk to the train station (~25 min)
-
-**Train back to Munich:**
-
-- **16:17** or **16:47** — arrival in Munich at **17:32** / **17:57**
-
-### Costs
+## Costs
 
 | Item | Cost |
 |------|------|
-| MVV Gruppenkarte M-7 (per 5 people) | 36.20 € (~8 €/person) |
-| Cable car (round trip) | 24.50 €/person |
+| Train (MVV group ticket, per person) | ~8 € |
+| Cable car (round trip) | 24.50 € |
 | **Fixed costs total** | **~32.50 €/person** |
-| Food at the hut (à la carte) | ~25 €/person |
+| Lunch at the hut (à la carte) | ~25 €/person |

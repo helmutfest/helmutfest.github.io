@@ -2,6 +2,8 @@
 layout: page
 title: Social Event
 permalink: /social/
+nav: true
+nav_order: 3
 description: Brauneck — Saturday, July 18, 2026
 ---
 
@@ -32,9 +34,9 @@ We take the cable car down around **15:30** and catch a train from Lenggries arr
 
 ## Costs
 
-| Item | Cost |
-|------|------|
-| Train (MVV group ticket, per person) | ~8 € |
-| Cable car (round trip) | 24.50 € |
-| **Fixed costs total** | **~32.50 €/person** |
-| Lunch at the hut (à la carte) | ~25 €/person |
+| Item                                 | Cost                |
+| ------------------------------------ | ------------------- |
+| Train (MVV group ticket, per person) | ~8 €                |
+| Cable car (round trip)               | 24.50 €             |
+| **Fixed costs total**                | **~32.50 €/person** |
+| Lunch at the hut (à la carte)        | ~25 €/person        |

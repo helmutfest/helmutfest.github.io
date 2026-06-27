@@ -34,7 +34,7 @@ on July 16th and 17th, 2026 in Garching with an extra social event planned for J
 
 - July 16: half day (starting after lunch)
 - July 17: full day
-- July 18: social event (optional)
+- July 18: [social event](/social/) (optional)
 - Venue: Technical University of Munich, Garching campus
 
 ## call for participation

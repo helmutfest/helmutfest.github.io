@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-social-event",
+          title: "Social Event",
+          description: "Brauneck — Saturday, July 18, 2026",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/social/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         

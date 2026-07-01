@@ -45,7 +45,7 @@ Route from **Garching-Forschungszentrum U-Bahn** to **Leibniz Supercomputing Cen
   style="border: 0"
   loading="lazy"
   allow="fullscreen"
-  sandbox="allow-scripts"
+  sandbox="allow-scripts allow-same-origin"
   src="https://www.openstreetmap.org/export/embed.html?bbox=11.66450%2C48.26400%2C11.67350%2C48.26720&layer=mapnik&marker=48.26562%2C11.66642"
   title="OpenStreetMap map around Garching-Forschungszentrum U-Bahn and LRZ"
 ></iframe>

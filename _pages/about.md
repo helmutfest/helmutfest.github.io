@@ -39,9 +39,18 @@ on July 16th and 17th, 2026 in Garching with an extra social event planned for J
 
 Route from **Garching-Forschungszentrum U-Bahn** to **Leibniz Supercomputing Centre (LRZ)**:
 
-![OpenStreetMap route from Garching-Forschungszentrum U-Bahn to LRZ](/assets/img/lrz-route-map-osm.svg)
+<iframe
+  width="100%"
+  height="420"
+  frameborder="0"
+  scrolling="no"
+  marginheight="0"
+  marginwidth="0"
+  src="https://www.openstreetmap.org/export/embed.html?bbox=11.66450%2C48.26400%2C11.67350%2C48.26720&layer=mapnik&marker=48.26562%2C11.66642"
+  title="OpenStreetMap map around Garching-Forschungszentrum U-Bahn and LRZ"
+></iframe>
 
-Map data © OpenStreetMap contributors. You can also [open this route in OpenStreetMap](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.26498%2C11.67157%3B48.26562%2C11.66642#map=16/48.26530/11.66890).
+Map data © OpenStreetMap contributors. You can also [open this route in OpenStreetMap directions](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.26498%2C11.67157%3B48.26562%2C11.66642#map=16/48.26530/11.66890).
 
 ## call for participation
 

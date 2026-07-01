@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
   <title id="title">Route from Garching-Forschungszentrum U-Bahn to LRZ</title>
   <desc id="desc">
     OpenStreetMap-based walking route sketch from Garching-Forschungszentrum U-Bahn station to Leibniz Supercomputing Centre.
   </desc>
-  <rect width="960" height="560" fill="#f6f7f8" />
+  <rect width="960" height="620" fill="#f6f7f8" />
   <g stroke="#d7d7d7" stroke-width="2">
     <path d="M80 110H900M80 170H900M80 230H900M80 290H900M80 350H900M80 410H900M80 470H900" />
     <path d="M120 60V500M220 60V500M320 60V500M420 60V500M520 60V500M620 60V500M720 60V500M820 60V500" />
@@ -16,7 +16,7 @@
     <text x="900" y="116" font-size="18" text-anchor="end">Start</text>
     <text x="80" y="500" font-size="22" font-weight="700">Leibniz Supercomputing Centre (LRZ)</text>
     <text x="80" y="526" font-size="18">Destination</text>
-    <text x="80" y="520" font-size="18" fill="#4a4a4a">
+    <text x="80" y="585" font-size="18" fill="#4a4a4a">
       Schematic map based on OpenStreetMap route geometry (not to scale).
     </text>
   </g>

@@ -56,24 +56,36 @@ Route from **Garching-Forschungszentrum U-Bahn** to **Leibniz Supercomputing Cen
             48.26498
           ],
           [
-            11.67095,
-            48.2652
+            11.67115,
+            48.26455
           ],
           [
-            11.6699,
-            48.26545
+            11.6707,
+            48.2641
           ],
           [
-            11.6688,
-            48.26562
+            11.67025,
+            48.26365
           ],
           [
-            11.66755,
-            48.2657
+            11.6698,
+            48.2632
           ],
           [
-            11.66642,
-            48.26562
+            11.6692,
+            48.26275
+          ],
+          [
+            11.66855,
+            48.26235
+          ],
+          [
+            11.6677,
+            48.26205
+          ],
+          [
+            11.66685,
+            48.26191
           ]
         ]
       }
@@ -99,8 +111,8 @@ Route from **Garching-Forschungszentrum U-Bahn** to **Leibniz Supercomputing Cen
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.66642,
-          48.26562
+          11.66685,
+          48.26191
         ]
       }
     }
@@ -108,7 +120,7 @@ Route from **Garching-Forschungszentrum U-Bahn** to **Leibniz Supercomputing Cen
 }
 ```
 
-Map data © OpenStreetMap contributors. For the full walking route line from the U-Bahn to LRZ, [open this route in OpenStreetMap directions](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.26498%2C11.67157%3B48.26562%2C11.66642#map=16/48.26530/11.66890).
+Map data © OpenStreetMap contributors. For the full walking route line from the U-Bahn to LRZ, [open this route in OpenStreetMap directions](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.26498%2C11.67157%3B48.26191%2C11.66685#map=16/48.26345/11.66921).
 
 ## call for participation
 

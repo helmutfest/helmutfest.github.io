@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Experience designing a static analyzer by abstract interpretation with MOPSA"
+title: "Experience Designing a Static Analyzer by Abstract Interpretation with MOPSA"
 permalink: /talks/antoine-mine/
 speaker: "Antoine Miné"
 affiliation: "Sorbonne Université"

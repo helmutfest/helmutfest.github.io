@@ -46,6 +46,26 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    {% assign sponsor_url = 'https://itestra.com/' %}
+    {% assign sponsor_logo_url = 'https://itestra.com/media/itestra-logo.png' %}
+    <h2>main sponsor</h2>
+    <div class="news">
+      <p>
+        Helmutfest is generously supported by our main sponsor,
+        <a href="{{ sponsor_url }}">Itestra</a>, whose generous contribution helps make the event possible.
+      </p>
+      <p>
+        <a href="{{ sponsor_url }}">
+          <img
+            class="img-fluid"
+            src="{{ sponsor_logo_url }}"
+            alt="Itestra logo"
+            width="240"
+          >
+        </a>
+      </p>
+    </div>
+
     <h2>organizers</h2>
     <div class="news">
       <div class="table-responsive">
